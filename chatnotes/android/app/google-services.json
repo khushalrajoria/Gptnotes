@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904402801525",
+    "project_id": "notechat-33159",
+    "storage_bucket": "notechat-33159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904402801525:android:d45e6cb84450eccac9393c",
+        "android_client_info": {
+          "package_name": "com.example.chatnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904402801525-udb2knob67othpuvrgsoo4kritdtgu46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5cbOKu7wdCUusu2sSua-MJDa4G0maiWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904402801525-udb2knob67othpuvrgsoo4kritdtgu46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
